@@ -1,2 +1,2 @@
 # Discord
-using-html,css
+HTML , CSS
